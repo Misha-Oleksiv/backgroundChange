@@ -1,0 +1,112 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-size: cover;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
+
+/* .area{
+	width: 700px;
+	height: 300px;
+	resize: none;
+} */
+
+.selection {
+	color: red;
+	cursor: pointer;
+	margin: 30px;
+	font-size: 25px;
+}
+
+.box {
+	max-width: 300px;
+	max-height: 300px;
+	margin: 100px auto;
+	display: none;
+	outline: 1px #000 black;
+	/* border: 1px solid #000; */
+}
+.box1 {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col {
+	height: 100px;
+	width: 100px;
+	border: 1px solid #000;
+}
+
+.red {
+	background-color: #c0392b;
+}
+
+.orange {
+	background-color: #f39c12;
+}
+.violet {
+	background-color: #8e44ad;
+}
+.brown {
+	background-color: #e17055;
+}
+.green {
+	background-color: #27ae60;
+}
+.blue {
+	background-color: #2980b9;
+}
+.yellow {
+	background-color: #f1c40f;
+}
+.pink {
+	background-color: #e84393;
+}
+
+.purple {
+	background-color: #680768;
+}
+
+.img1{
+	background: url('https://i.pinimg.com/originals/14/ab/e3/14abe37902a925657d6f4586337ee1e5.jpg');
+	background-size: cover;
+}
+
+.img2{
+background: url('https://i.pinimg.com/originals/e6/0d/38/e60d38f82a519545865f64242137cdb9.jpg');
+background-size: cover;
+}
+
+.img3{
+	background-size: cover;
+	background: url('https://i.pinimg.com/originals/c0/a7/41/c0a7410afe6a2f7d9c9b691acbdca778.jpg');
+}
+.img4{
+	background-size: cover;
+	background: url('https://cdn.wallpapersafari.com/39/74/jkEp6N.jpg');
+}
+.img5{
+	background: url('https://i.pinimg.com/originals/77/19/79/7719792d26a2c470b2d87275d40925a2.jpg');
+	background-size: cover;
+}
+.img6{
+	background: url('https://i.pinimg.com/originals/2f/d9/06/2fd906272fd6b336abac132fe86265d7.jpg');
+	background-size: cover;
+}
+.img7{
+	background: url('https://images.sadhguru.org/mahashivratri/wp-content/uploads/2020/02/Shiva-Wallpaper-Trishul.jpg');
+	background-size: cover;
+}
+.img8{
+	background: url('https://i.pinimg.com/originals/b7/23/bc/b723bc52a4d351c90e7c7629dadd51c7.jpg');
+	background-size: cover;
+}
+.img9{
+	background: url('https://i.pinimg.com/originals/f7/4e/1d/f74e1d611b844ca93290322eafbc5728.jpg');
+	background-size: cover;
+}
